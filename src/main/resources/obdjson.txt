@@ -1,0 +1,27 @@
+{
+  "gtrID": "0002111511584454514660044",
+  "ani": "1409882012",
+  "dnis": "9247292472",
+  "menuPath": "/apps/ivrportal/vp/dbdialout/Devotional_Songpack_OBD_1/dtmf_welcome1.txt",
+  "menuType": "0",
+  "siteID": "CRBT",
+  "serviceID": "Service123",
+  "countryCode": "",
+  "displayNumber": "",
+  "displayName": "",
+  "priority": "0",
+  "failureRetry": "0",
+  "routeId": {
+    "routeId": " obd_punjab",
+    "serviceProviderID": "",
+    "requestTime": "2020-03-17 08:15:00",
+    "expireTime": "2020-03-17 20:55:00"
+  },
+  "extraParams": {
+    "reqParams": {
+      "campaign_id": " Campaign_1234",
+      "movie_name": "Veer-Zaara",
+      "content_file": "Main Yahaan Hoon"
+    }
+  }
+}
